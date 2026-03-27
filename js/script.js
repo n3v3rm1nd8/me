@@ -36,7 +36,7 @@ const data = {
 <span class="keyword">LANGUAGES:</span>
 
 - Spanish (Native).
-- English (Intermediate - Technical English: Advanced reading and writing).
+- English (Intermediate - Technical English -> Advanced reading and writing).
     `,
     'experience': `
 <span class="keyword">PROFESSIONAL EXPERIENCE (Summary):</span>
