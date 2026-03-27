@@ -14,6 +14,11 @@ const data = {
 - Cybersecurity and Software Development Technician.
 - Proactive professional with extensive learning capacity and teamwork skills.
 - Passionate about computer security and development.
+- Specialized in offensive security with a "Security by Design" approach in software development.
+- 6+ years of self-taught experience in CTFs, Hack The Box, and occasional Bug Bounty/CVEs.
+- Over 5 years of practical experience in Python, and +2 years of experience in PHP and Java (POO, MVC, Laravel, Spring Boot, APIs).
+- Theoretical knowledge in C, and some experience with Node.js.
+- Developer of security tools: multi-threaded port scanner, privilege escalation binary scanner for Linux, and a Bash 'Hangman' game.
     `,
     'skills': `
 <span class="keyword">TECHNICAL SKILLS:</span>
@@ -25,13 +30,13 @@ const data = {
 <span class="keyword">SOFT SKILLS:</span>
 
 - Teamwork.
-- Results-oriented.
 - Technical communication.
 - Continuous training.
 
 <span class="keyword">LANGUAGES:</span>
 
-- Technical English (Advanced reading and writing).
+- Spanish (Native).
+- English (Intermediate - Technical English: Advanced reading and writing).
     `,
     'experience': `
 <span class="keyword">PROFESSIONAL EXPERIENCE (Summary):</span>
@@ -58,9 +63,11 @@ const data = {
     'n3': `
 <span class="keyword">CYBERSECURITY & BUG BOUNTY ACHIEVEMENTS:</span>
 
-- <span class="keyword">Experience:</span> 6 years of self-taught training (BugBounty and CTFs).
-- <span class="keyword">Vulnerabilities reported:</span> HTML Injection, XSS, RCE, Information Disclosure, Open Redirect, among others.
+- <span class="keyword">Experience:</span> 6 years of self-taught training (BugBounty, CTFs and Hack The Box).
+- <span class="keyword">Bugcrowd Profile:</span> <a href="https://bugcrowd.com/h/n3" target="_blank">bugcrowd.com/h/n3</a>
+- <span class="keyword">Vulnerabilities reported:</span> HTML Injection, XSS, RCE, Information Disclosure, Open Redirect, among others. Also accepted vulnerabilities outside BugBounty (privately).
 - <span class="keyword">Acknowledgments:</span> Responsible disclosures on personal blogs, international institutional sites, and recognized companies such as: 'Victoria's Secret', 'SoundCloud', 'Tether', 'MetabullAI'.
+- <span class="keyword">Content:</span> Elaboration of technical writeups documenting exploitation and vulnerability analysis processes.
     `,
     'contact': `
 <span class="keyword">CONTACT:</span>
