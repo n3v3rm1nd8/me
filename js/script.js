@@ -23,8 +23,8 @@ const data = {
     'skills': `
 <span class="keyword">TECHNICAL SKILLS:</span>
 
-- <span class="keyword">Languages:</span> Python/Bash/PowerShell/Java/PHP (Advanced Level) and a little bit of C.
-- <span class="keyword">Security:</span> Advanced Pentesting, Ethical Hacking, SIEM tools.
+- <span class="keyword">Languages & Frameworks:</span> Python, Bash, PowerShell, Java, PHP (Advanced Level), C, Node.js, Ruby, Perl, Laravel, Spring Boot.
+- <span class="keyword">Security:</span> Advanced Pentesting, Ethical Hacking, SIEM tools, Bug Bounty, CTFs, Writeups, Hack The Box Labs.
 - <span class="keyword">Infrastructure:</span> Networks, Hardware (Configuration and Troubleshooting).
 
 <span class="keyword">SOFT SKILLS:</span>
